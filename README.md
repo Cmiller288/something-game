@@ -1,2 +1,2 @@
 # something-game
-Some for of game for Dr. Cumbie's class
+Some form of game for Dr. Cumbie's class
