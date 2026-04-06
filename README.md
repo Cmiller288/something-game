@@ -68,5 +68,5 @@ This snippet uses a data-driven array to render the game board. Each object in `
 - Color contrast is maintained for accessibility.
 
 ## Footer Validation Links
-- Nu Validator: https://validator.w3.org/nu/?doc=https://yourusername.github.io/bepo/
-- WAVE Report: https://wave.webaim.org/report#/https://yourusername.github.io/bepo/
+- Nu Validator: https://validator.w3.org/nu/?doc=https://cmiller288.github.io/something-game
+- WAVE Report: https://wave.webaim.org/report#/https://cmiller288.github.io/something-game
