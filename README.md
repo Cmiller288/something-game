@@ -26,8 +26,8 @@ Click the active target tile as quickly as possible before the timer reaches zer
 - WAVE Accessibility: https://wave.webaim.org/
 
 ## Demo Links
-- Deployed game: https://yourusername.github.io/bepo/
-- GitHub repo: https://github.com/yourusername/bepo
+- Deployed game: https://cmiller288.github.io/something-game/
+- GitHub repo:  https://github.com/Cmiller288
 
 ## Wireframe
 ![Wireframe](images/wireframe.svg)
